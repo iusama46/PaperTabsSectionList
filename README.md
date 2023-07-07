@@ -2,6 +2,8 @@
 
 # Introduction:
 
+![preview](https://github.com/creactivelabssoluction/PaperTabsSectionList/blob/main/preview..gif)
+
 In today's world of mobile applications, food delivery has become a rapidly growing sector. Popular services like Uber Eats and DoorDash have revolutionized the way people order food from their favorite restaurants. If you're interested in developing a similar application and want to implement a dynamic restaurant product list, you've come to the right place! In this blog, we will explore how to create a restaurant product list using React Native, with a focus on key features such as header animation and parallax effect.
 
 React Native and Restaurant Product Lists:
